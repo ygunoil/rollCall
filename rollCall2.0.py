@@ -138,7 +138,7 @@ def add_category_func():
 root = Tk()
 
 # 设置窗口的标题
-root.title("我是一个点名器")
+root.title("我是一个点名器2.0")
 
 # 设置窗口是否可以变化长/宽，
 root.resizable(width=False, height=False)
